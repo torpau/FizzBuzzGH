@@ -7,13 +7,13 @@ public class Main {
 
             if(i == 42){
                 System.out.println("Answer to the ultimate Question of life, the Universie, end everything");
-            } else if(i % 3 == 0 && i % 5 == 0 ){
+            } else if(i % 3 == 0 && i % 5 == 0 ) {
                 System.out.println("FizzBuzz");
-            } else if(i % 3 == 0){
+            } else if(i % 3 == 0) {
                 System.out.println("Fizz");
-            } else if(i % 5 == 0){
+            } else if(i % 5 == 0) {
                 System.out.println("Buzz");
-            } else{
+            } else {
                 System.out.println(i);
             }
 
