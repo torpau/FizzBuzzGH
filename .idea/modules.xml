@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/FizzBuzzGitHub.iml" filepath="$PROJECT_DIR$/FizzBuzzGitHub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FizzbuzzGitHub.iml" filepath="$PROJECT_DIR$/FizzbuzzGitHub.iml" />
     </modules>
   </component>
 </project>
